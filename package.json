@@ -1,0 +1,22 @@
+{
+  "author": "Thorsten Lorenz <thlorenz@gmx.de> (thorstenlorenz.wordpress.com)",
+  "description": "Convert a git repo into html pages to read anywhere.",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thlorenz/readarepo.git"
+  },
+  "main": "app.js",
+  "name": "readarepo",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "express": "2.5.8",
+    "stylus": ">= 0.0.1",
+    "jade": ">= 0.0.1"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
