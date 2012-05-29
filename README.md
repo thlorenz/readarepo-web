@@ -1,4 +1,3 @@
-readarepo
-=========
+# readarepo-web
 
-Convert a git repo into html pages to read anywhere.
+Web app that converts a git repo into html pages to read anywhere.
