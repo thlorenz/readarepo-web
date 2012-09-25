@@ -1,5 +1,5 @@
 {
-  "author": "Thorsten Lorenz <thlorenz@gmx.de> (thorstenlorenz.wordpress.com)",
+  "author": "Thorsten Lorenz <thlorenz@gmx.de> (thlorenz.com)",
   "description": "Web app that converts a git repo into html pages to read anywhere.",
   "repository": {
     "type": "git",
